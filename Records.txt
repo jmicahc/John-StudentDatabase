@@ -1,0 +1,5 @@
+John,Collins,cmps101,4321,01/02/2015
+Jennifer,Day,Face Perception,3432,02/13/2015
+Sara,Peterson,Intro to Polical Science,343523,01/04/2015
+Aren,Vierra,Human Biology,3454322,01/05/1994
+Mitch,Gordon,Descrete Math,123543,02/05/2014
