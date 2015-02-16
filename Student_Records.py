@@ -113,7 +113,7 @@ if __name__ == '__main__':
         (data,),
         (data, 'Student ID'),
         (data, 'Course Name'),
-        tuple(['Have a nice ANCR day!'])
+        tuple(['Have a nice day!'])
         )
 
 

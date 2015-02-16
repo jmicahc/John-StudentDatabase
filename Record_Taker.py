@@ -97,4 +97,4 @@ if __name__ == "__main__":
         printer.csvLine(user.values())
         cont = raw_input('conitnue (y/n): ') == 'y'
 
-    print 'Have a great ANRC day!'
+    print 'Have a great day!'
